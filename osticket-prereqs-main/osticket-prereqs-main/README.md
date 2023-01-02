@@ -20,11 +20,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Azure
-- Virtual Machine
-- Item 3
-- Item 4
-- Item 5
 
+- create a resource group
+
+- windows 10 virtual machine
 <h2>Installation Steps</h2>
 
 ![prequisit OsTicket](https://user-images.githubusercontent.com/58159183/210190696-4722aad2-d222-498f-8ebb-88134cfaade0.gif)
