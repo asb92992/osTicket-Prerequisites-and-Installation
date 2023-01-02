@@ -32,6 +32,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 In my gif I am creating my environment in Azure for the OsTicketing system that I will be making in Azure.
 </p>
 
+
+
 <br />
 
 ![Installation osTicket part1](https://user-images.githubusercontent.com/58159183/210194207-274a3e84-8edf-4d07-b61f-cab442238678.gif)
@@ -62,6 +64,16 @@ I connected to the VM with remote desktop then began installing MySQL 5.5, all x
 
 - I then procedded to assign permission to ost-config.php and disable inheritance and remove all then set new permissions 
 to everyone.
-
 </p>
 <br />
+
+![Installation osTicket part3](https://user-images.githubusercontent.com/58159183/210281145-7aa26fbf-e448-4f6b-a2b4-91ded9af7729.gif)
+
+</p>
+<p>
+  
+  - In this gif I continue setting up osTIcket in the browser and instal HeidiSQL
+  
+  - Continue making a username and password for MYSQL database
+  
+  - Then after making sure that everything work correctly I then proceeded to clean up osTicket by deleteing C:\inetpub\wwwroot\osTicket\setup and setting permissions to read only in C:\inetpub\wwwroot\osTicket\include\ost-config.php
